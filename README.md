@@ -24,8 +24,8 @@ To implement Huffman coding to compress the data using Python.
 
  
 ## Program:
-### Developed by : Aadheeshwar.A 
-### Reg.no : 212221230001
+### Developed by : VETRIVEL S
+### Reg.no : 212221240060
 
 ``` Python
 # Get the input String
